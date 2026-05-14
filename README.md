@@ -36,4 +36,4 @@ Repositório voltado para registros das aulas da matéria de
 
 <h2>📚 CONTEÚDOS</h2>
 
-Conteúdo da aula aqui...
+Tema: 8. Uso de IA na aprendizagem e no levantamento
