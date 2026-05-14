@@ -1,15 +1,15 @@
 <h1 align="center">🚀 GNSystem</h1>
 
-<p align="center">
+<p align="flex-start">
 Repositório voltado para registros das aulas da matéria de 
 <b>Análise e Projetos de Sistemas (APS)</b>.
 </p>
 
 ---
 
-<h2 align="center">📎 LINKS IMPORTANTES</h2>
+<h2 align="flex-start">📎 LINKS IMPORTANTES</h2>
 
-<p align="center">
+<p align="flex-start">
 
 <a href="https://suap.ifpr.edu.br/accounts/login/?next=/">
 🔗 IFPR - SUAP
