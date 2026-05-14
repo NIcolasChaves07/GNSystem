@@ -1,16 +1,17 @@
 <h1 align="center">🚀 GNSystem</h1>
 
-<p align"flex-start">
-  Colaboradores
-</p>
-<legend> Nicolas Chaves, Gabriel Nogueira</legend>
-
 <br><br>
 
 <p align="flex-start">
 Repositório voltado para registros das aulas da matéria de 
 <b>Análise e Projetos de Sistemas (APS)</b>.
 </p>
+
+---
+<h2 align"flex-start">
+  Colaboradores
+</h2>
+<legend> Nicolas Chaves, Gabriel Nogueira</legend>
 
 ---
 
