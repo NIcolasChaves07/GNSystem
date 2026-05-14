@@ -21,6 +21,11 @@ Repositório voltado para registros das aulas da matéria de
 </a>
 <br><br>
 
+<a href="https://github.com/heliokamakawa/ifpr/blob/main/disciplinas/02-aps/aula/trimestre_02/01_resumos/03-estrutura-do-resumo.md">
+🔗 Estrutura do Resumo - Git Prof
+</a>
+<br><br>
+
 <a href="https://ava.ifpr.edu.br/login/index.php">
 🎓 IFPR - AVA
 </a>
