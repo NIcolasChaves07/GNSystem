@@ -11,7 +11,7 @@ Repositório voltado para registros das aulas da matéria de
 <h2 align"flex-start">
   Colaboradores
 </h2>
-<legend> Nicolas Chaves, Gabriel Nogueira</legend>
+<legend align="center"> Nicolas Chaves, Gabriel Nogueira</legend>
 
 ---
 
