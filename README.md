@@ -26,7 +26,7 @@ Repositório voltado para registros das aulas da matéria de
 </a>
 <br><br>
 
-<a href="https://docs.google.com/spreadsheets/d/1zaZ2ndjn20djhZibXUU7AyCd19BDZ0ZrN4l9cYzgJTY/edit?gid=765540503#gid=765540503">
+<a href="https://docs.google.com/spreadsheets/d/1zaZ2ndjn20djhZibXUU7AyCd19BDZ0ZrN4l9cYzgJTY/edit?pli=1&gid=74637407#gid=74637407">
 📊 DIÁRIO DE AULA - APS
 </a>
 
